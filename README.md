@@ -3,7 +3,7 @@
 A beautiful and responsive jewelry e-commerce website built with React and Tailwind CSS v3. This project features a modern rose-gold design theme with a complete product showcase, mobile navigation, and professional layout.
 
 ## Preview
-![Preview](./src/assets/preview.png)
+![Preview](./src/assets/vibes.png)
 
 ## 🌟 Features
 
